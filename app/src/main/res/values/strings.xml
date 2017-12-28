@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Kota Wisata Semarang</string>
+    <string-array name="nama_wisata">
+        <item>Lawang Sewu</item>
+        <item>Gereja Blenduk</item>
+        <item>Kota Lama</item>
+        <item>Sam Poo Kong</item>
+        <item>Simpang Lima</item>
+    </string-array>
+    <string-array name="deskripsi_wisata">
+        <item>Lawang Sewu</item>
+        <item>Gereja Blenduk</item>
+        <item>Kota Lama</item>
+        <item>Sam Poo Kong</item>
+        <item>Simpang Lima</item>
+
+    </string-array>
+    <string-array name="keterangan_wisata">
+        <item>Lawang Sewu (bahasa Indonesia: seribu pintu) adalah gedung gedung bersejarah di Indonesia yang berlokasi di Kota Semarang, Jawa Tengah. Gedung ini, dahulu yang merupakan kantor dari Nederlands-Indische Spoorweg Maatschappij atau NIS. Dibangun pada tahun 1904 dan selesai pada tahun 1907. Terletak di bundaran Tugu Muda yang dahulu disebut Wilhelminaplein.
+            Masyarakat setempat menyebutnya Lawang Sewu karena bangunan tersebut memiliki pintu yang sangat banyak, meskipun kenyataannya, jumlah pintunya tidak mencapai seribu. Bangunan ini memiliki banyak jendela yang tinggi dan lebar, sehingga masyarakat sering menganggapnya sebagai pintu (lawang).
+            Bangunan kuno dan megah berlantai dua ini setelah kemerdekaan dipakai sebagai kantor Djawatan Kereta Api Repoeblik Indonesia (DKARI) atau sekarang PT Kereta Api Indonesia. Selain itu pernah dipakai sebagai Kantor Badan Prasarana Komando Daerah Militer (Kodam IV/Diponegoro) dan Kantor Wilayah (Kanwil) Kementerian Perhubungan Jawa Tengah. Pada masa perjuangan gedung ini memiliki catatan sejarah tersendiri yaitu ketika berlangsung peristiwa Pertempuran lima hari di Semarang (14 Oktober - 19 Oktober 1945). Gedung tua ini menjadi lokasi pertempuran yang hebat antara pemuda AMKA atau Angkatan Muda Kereta Api melawan Kempetai dan Kidobutai, Jepang. Maka dari itu Pemerintah Kota Semarang dengan Surat Keputusan Wali Kota Nomor. 650/50/1992, memasukan Lawang Sewu sebagai salah satu dari 102 bangunan kuno atau bersejarah di Kota Semarang yang patut dilindungi.
+            Saat ini bangunan tua tersebut telah mengalami tahap konservasi dan revitalisasi yang dilakukan oleh Unit Pelestarian benda dan bangunan bersejarah PT Kereta Api Persero
+        </item>
+        <item>Gereja Blenduk (kadang-kadang dieja Gereja Blendug dan seringkali dilafazkan sebagai mBlendhug) adalah Gereja Kristen tertua di Jawa Tengah yang dibangun oleh masyarakat Belanda yang tinggal di kota itu pada 1753, dengan bentuk heksagonal (persegi delapan). Gereja ini sesungguhnya bernama Gereja GPIB Immanuel, di Jl. Letjend. Suprapto 32. Kubahnya besar, dilapisi perunggu, dan di dalamnya terdapat sebuah orgel Barok. Arsitektur di dalamnya dibuat berdasarkan salib Yunani. Gereja ini direnovasi pada 1894 oleh W. Westmaas dan H.P.A. de Wilde, yang menambahkan kedua menara di depan gedung gereja ini. Nama Blenduk adalah julukan dari masyarakat setempat yang berarti kubah. Gereja ini hingga sekarang masih dipergunakan setiap hari Minggu. Di sekitar gereja ini juga terdapat sejumlah bangunan lain dari masa kolonial Belanda.
+        </item>
+        <item>Kota Lama Semarang adalah suatu kawasan di Semarang yang menjadi pusat perdagangan pada abad 19-20 . Pada masa itu, untuk mengamankan warga dan wilayahnya, maka kawasan itu dibangun benteng, yang dinamai benteng Vijhoek. Untuk mempercepat jalur perhubungan antar ketiga pintu gerbang dibenteng itu maka dibuat jalan-jalan perhubungan, dengan jalan utamanya dinamai : Heeren Straat. Saat ini bernama Jl. Let Jen Soeprapto. Salah satu lokasi pintu benteng yang ada sampai saat ini adalah Jembatan Berok, yang disebut De Zuider Por.[1]
+            Kawasan Kota Lama Semarang disebut juga Outstadt. Luas kawasan ini sekitar 31 hektare. Dilihat dari kondisi geografi, nampak bahwa kawasan ini terpisah dengan daerah sekitarnya, sehingga nampak seperti kota tersendiri, sehingga mendapat julukan "Little Netherland". Kawasan Kota Lama Semarang ini merupakan saksi bisu sejarah Indonesia masa kolonial Belanda lebih dari 2 abad, dan lokasinya berdampingan dengan kawasan ekonomi. Di tempat ini ada sekitar 50 bangunan kuno yang masih berdiri dengan kukuh dan mempunyai sejarah Kolonialisme di Semarang. ==Bangunan di Kota Lama Semarang== Secara umum karakter bangunan di wilayah ini mengikuti bangunan-bangunan di benua Eropa sekitar tahun 1700-an. Hal ini bisa dilihat dari detail bangunan yang khas dan ornamen-ornamen yang identik dengan gaya Eropa. Seperti ukuran pintu dan jendela yang luar biasa besar, penggunaan kaca-kaca berwarna, bentuk atap yang unik, sampai adanya ruang bawah tanah
+            Seperti kota-kota lainnya yang berada di bawah pemerintahan kolonial Belanda, dibangun pula benteng sebagai pusat militer. Benteng ini berbentuk segi lima dan pertama kali dibangun di sisi barat kota lama Semarang saat ini. Benteng ini hanya memiliki satu gerbang di sisi selatannya dan lima menara pengawas. Masing-masing menara diberinama: Zeeland, Amsterdam, Utrecht, Raamsdonk dan Bunschoten. Pemerintah Belanda memindahkan permukiman Cina pada tahun 1731 di dekat permukiman Belanda, untuk memudahkan penga- wasan terhadap segala aktivitas orang Cina. Oleh sebab itu, Benteng tidak hanya sebagai pusat militer, namun juga sebagai menara pengawas bagi segala aktivitas kegiatan orang Cina.
+        </item>
+        <item>Kelenteng Gedung Batu Sam Po Kong adalah sebuah petilasan, yaitu bekas tempat persinggahan dan pendaratan pertama seorang Laksamana Tiongkok beragama islam yang bernama Zheng He / Cheng Ho. Terletak di daerah Simongan, sebelah barat daya Kota Semarang. Tanda yang menunjukan sebagai bekas petilasan yang berciri keislamanan dengan ditemukannya tulisan berbunyi "marilah kita mengheningkan cipta dengan mendengarkan bacaan Al Qur'an".
+            Disebut Gedung Batu karena bentuknya merupakan sebuah Gua Batu besar yang terletak pada sebuah bukit batu, orang Indonesia keturunan cina menganggap bangunan itu adalah sebuah kelenteng - mengingat bentuknya memiliki arsitektur bangunan cina sehingga mirip sebuah kelenteng. Sekarang tempat tersebut dijadikan tempat peringatan dan tempat pemujaan atau bersembahyang serta tempat untuk berziarah. Untuk keperluan tersebut, di dalam gua batu itu diletakan sebuah altar, serta patung-patung Sam Po Tay Djien. Padahal laksamana cheng ho adalah seorang muslim, tetapi oleh mereka di anggap dewa. Hal ini dapat dimaklumi mengingat agama Kong Hu Cu atau Tau menganggap orang yang sudah meninggal dapat memberikan pertolongan kepada mereka.[1]
+            Menurut cerita, Laksamana Zheng He sedang berlayar melewati laut jawa, namun saat melintasi laut jawa, banyak awak kapalnya yang jatuh sakit, kemudian ia memerintahkan untuk membuang sauh. Kemudian merapat ke pantai utara semarang untuk berlindung di sebuah Goa dan mendirikan sebuah masjid di tepi pantai yang sekarang telah berubah fungsi menjadi kelenteng. Bangunan itu sekarang telah berada di tengah kota Semarang di akibatkan pantai utara jawa selalu mengalami proses pendangkalan yang di akibatkan adanya proses sedimentasi sehingga lambat-laun daratan akan semakin bertambah luas kearah utara.
+            Konon, setelah Zheng He meninggalkan tempat tersebut karena ia harus melanjutkan pelayarannya, banyak awak kapalnya yang tinggal di desa Simongan dan kawin dengan penduduk setempat. Mereka bersawah dan berladang di tempat itu. Zheng He memberikan pelajaran bercocok-tanam serta menyebarkan ajaran-ajaran Islam, di Klenteng ini juga terdapat Makam Seorang Juru Mudi dari Kapal Laksamana Cheng Ho.</item>
+        <item>Simpang Lima Semarang adalah sebuah lapangan yang berada di pusat kota Semarang dijalur nasional Nasional 14. Lapangan ini disebut juga Lapangan Pancasila[1]. Simpang lima merupakan pertemuan dari lima jalan yang menyatu, yaitu Nasional 14Jl. Pahlawan, Nasional 14Jl. Pandanaran, Jl. Ahmad Yani, Jl. Gajah Mada dan Jl A Dahlan. Di sekitarnya berdiri hotel-hotel berbintang dan pusat perbelanjaan. Di antaranya Hotel Ciputra, Hotel Horison, Hotel Graha Santika, Mall Ciputra, E Plaza, Plaza Simpang Lima, Living Plaza, @Hom Hotel, Holiday Inn Expres, Warhol Apartemen dan Condotel (sedang konstruksi). Lapangan ini merupakan pusat keramaian warga Semarang setiap hari Sabtu-Minggu. Terutama pada hari minggu pagi tempat ini hanya diperuntukkan bagi pejalan kaki dan bersepeda.
+            Simpang Lima dijadikan sebagai pusat Alun-alun Semarang berdasarkan atas usulan Presiden RI pertama kali yaitu Ir. Soekarno dengan alasan Pusat alun-alun yang semula berada di Kawasan Kauman telah beralih fungsi menjadi Pusat Perbelanjaan. Rencana pembangunan Lapangan Pancasila waktu itu dipilih di ujung jalan Oei Tiong Ham (Jalan Pahlawan Semarang). Lapangan Pancasila kemudian dapat terbangun pada tahun 1969.
+            Saat ini Lapangan Pancasila sudah menjadi landmark kota Semarang merupakan ruang terbuka yang biasa digunakan oleh masyarakat Semarang untuk beraktifitas. Kota Semarang sendiri menjadi identik dengan Simpang Lima, karena pusat kegiatan dan keramaian berada disini.[2]
+            Lapangan Simpang ini biasanya pada hari Minggu di padati oleh pengunjung yang ingin berolahraga, jalan-jalan, dan aktivitas lainnya.
+            Apalagi disaat menjelang pergantian tahun, Simpang Lima Semarang menjadi pusat perayaan pergantian Tahun. Biasannya di Simpang Lima Semarang ini diadakan pesta kembang api dan konser musik.
+        </item>
+    </string-array>
+    <string-array name="nama_kuliner">
+        <item>Lunpia</item>
+        <item>Tahu Gimbal</item>
+        <item>Bandeng Presto</item>
+        <item>Soto Bangkong</item>
+        <item>Leker Paimo</item>
+    </string-array>
+    <string-array name="deskripsi_kuliner">
+        <item>Lunpia</item>
+        <item>Tahu Gimbal</item>
+        <item>Bandeng Presto</item>
+        <item>Soto Bangkong</item>
+        <item>Leker Paimo</item>
+
+    </string-array>
+    <string-array name="keterangan_kuliner">
+        <item>Lunpia semarang (atau loenpia semarang) adalah makanan semacam rollade yang berisi rebung, telur, dan daging ayam atau udang.
+            Cita rasa lumpia semarang adalah perpaduan rasa antara Tionghoa dan Indonesia karena pertama kali dibuat oleh seorang keturunan Tionghoa yang menikah dengan orang Indonesia dan menetap di Semarang, Jawa Tengah.[butuh rujukan] Makanan ini mulai dijajakan dan dikenal di Semarang ketika pesta olahraga GANEFO diselenggarakan pada masa pemerintahan Presiden Soekarno.
+        </item>
+        <item>Tahu gimbal adalah makanan khas Kota Semarang.Makanan ini terdiri dari tahu goreng, rajangan kol mentah, lontong, taoge, telur, dan gimbal (udang yang digoreng dengan tepung) dan dicampur dengan bumbu kacang yang khas karena menggunakan petis udang. Beda dengan saus kacang untuk pecel Madiun yang agak kental. Saus bumbu kacang untuk tahu gimbal agak sedikit encer.
+        </item>
+        <item>Bandeng presto adalah makanan khas Indonesia yang berasal dari Kota Semarang, Jawa Tengah. Makanan ini dibuat dari ikan bandeng (Chanos chanos) yang dibumbui dengan bawang putih, kunyit dan garam. Asal mulanya ditemukan oleh Hanna Budimulya yang lahir di kota pati, Jawa Tengah dan akhirnya menjadi ikon besar Kota Semarang.
+            Ikan bandeng ini kemudian dimasak pada alas daun pisang dengan cara presto. Presto adalah cara memasak dengan uap air yang bertekanan tinggi. Makanan yang dimasak dengan cara ini diletakkan dalam panci yang dapat dikunci dengan rapat. Air yang berada di dalam panci ini kemudian dipanaskan hingga mendidih. Uap air yang timbul akan memasak makanan yang berada di dalam panci ini. Karena ikan bandeng terkenal memiliki banyak duri, bandeng presto adalah makanan yang digemari karena dengan cara masak presto duri-duri ini menjadi sangat lunak.
+        </item>
+        <item>Soto Bangkong adalah rumah makan di Semarang, Jawa Tengah yang menyajikan soto sebagai menu utamanya. Nama Bangkong diambil dari nama tempat didirikannya rumah makan ini, yaitu di Perempatan Bangkong, Semarang. Dalam perkembangannya, Soto Bangkong telah membuka cabang di berbagai kota di Pulau Jawa. Warung soto ini buka setiap hari mulai dari jam 07.00 pagi sampai jam 10.00 malam.
+            Soto Bangkong berdiri sejak tahun 1950. Pemilik soto ini bernama H. Soleh Soekarno. Awalnya soto ini dijajakan dengan menggunakan angkring bambu yang dipikul dengan berjalan kaki. Lebih dari 60 tahun Pak Soleh merintis usaha warung soto miliknya hingga saat ini. Walaupun telah lanjut usia Pak Soleh dibantu dengan beberapa karyawannya tetap setia menjalani usahanya.
+        </item>
+        <item>Leker Paimo Semarang, merupakan salah satu kuliner yang ada di semarang yang wajib anda cicipi saat berada atau tinggal di kota ini. Lekker paimo ini berada tepat pada depan SMA Loyola, Buka setiap hari senin hingga sabtu mulai pukul 11 siang hingga pukul 5 sore. Penjual kue lekker ini telah hadir menjajakan dagangan nya sejak tahun 1993, tidak heran lekker yang satu  ini banyak dikenal menjadi leker legendaris.
+        </item>
+
+    </string-array>
+    <string-array name="nama_hotel">
+        <item>Ciputra</item>
+        <item>Horizon</item>
+        <item>Citra Dream</item>
+        <item>Dafam</item>
+        <item>Novotel</item>
+    </string-array>
+    <string-array name="deskripsi_hotel">
+        <item>Ciputra</item>
+        <item>Horizon</item>
+        <item>Citra Dream</item>
+        <item>Dafam</item>
+        <item>Novotel</item>
+
+    </string-array>
+    <string-array name="keterangan_hotel">
+        <item>Ciputra</item>
+        <item>Horizon</item>
+        <item>Citra Dream</item>
+        <item>Dafam</item>
+        <item>Novotel</item>
+
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>

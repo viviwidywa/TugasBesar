@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.example.viviwi.kotawisatasemarang.activity_detail_wisata">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/nm_wisata"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:textAlignment="center"
+            android:textSize="24sp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="16dp" />
+
+            <ImageView
+                android:id="@+id/imageView_wisata"
+                android:layout_width="300dp"
+                android:layout_height="200dp"
+                android:layout_below="@+id/nm_wisata"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="15dp"
+                android:scaleType="fitXY"
+                android:background="@mipmap/ic_launcher" />
+
+        <ImageButton
+            android:id="@+id/imageButton"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            app:srcCompat="@drawable/navi"
+            android:layout_marginRight="51dp"
+            android:onClick="lokasi"
+            android:layout_marginEnd="51dp"
+            android:layout_alignBottom="@+id/imageButton2"
+            android:layout_toLeftOf="@+id/imageButton2"
+            android:layout_toStartOf="@+id/imageButton2"
+            android:layout_below="@+id/imageView_wisata" />
+
+            <ImageButton
+                android:id="@+id/imageButton2"
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:layout_marginEnd="55dp"
+                android:layout_marginRight="55dp"
+                android:onClick="gallery_wisata"
+                android:scaleType="centerCrop"
+                android:background="@mipmap/ic_launcher"
+                android:layout_below="@+id/imageView_wisata"
+                android:layout_alignRight="@+id/imageView_wisata"
+                android:layout_alignEnd="@+id/imageView_wisata" />
+
+            <TextView
+                android:id="@+id/ket"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/imageButton"
+                android:layout_centerHorizontal="true"
+                android:gravity="center"
+                android:padding="16dp"
+                android:text="TextView"
+                android:textAlignment="viewStart"
+                android:textSize="18sp" />
+        </RelativeLayout>
+</ScrollView>

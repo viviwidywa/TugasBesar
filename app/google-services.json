@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "382905866994",
+    "firebase_url": "https://kotawisatasemarang.firebaseio.com",
+    "project_id": "kotawisatasemarang",
+    "storage_bucket": "kotawisatasemarang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382905866994:android:ba88f19d2a7f3b9a",
+        "android_client_info": {
+          "package_name": "com.example.viviwi.kotawisatasemarang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382905866994-mfvj00agbtbruqs0ibubau0e750j01bf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.viviwi.kotawisatasemarang",
+            "certificate_hash": "c7a727627aa07a2236013e0e2e2abb79d87d96a4"
+          }
+        },
+        {
+          "client_id": "382905866994-4di5t4kr85vrqp5t53thc30qmph528hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTCivPC5sfrY9rleo8IFaFeVmovjXYF10"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382905866994-4di5t4kr85vrqp5t53thc30qmph528hb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
